@@ -7,7 +7,7 @@ Welcome to "Hangout with PYMC3" - a tutorial for those interested in learning ba
 ### Contents
 - [Section 0: Introduction](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%200.%20Introduction.ipynb)
     - Motivation for learning bayesian statistics
-    - Loading a parsing Hangout chat data
+    - Loading and parsing Hangout chat data
     
 - [Section 1: Estimating model parameters](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%201.%20Estimating%20model%20parameters.ipynb)
     - Frequentist technique for estimating parameters of a poisson model (Optimization routine)
@@ -39,3 +39,6 @@ That was until I stumbled upon Bayesian statistics - a branch to statistics quit
 - [Scipy Tutorial 2014](https://github.com/fonnesbeck/scipy2014_tutorial) by Chris Fonnesbeck
 
 I created this tutorial in the hope that others find it useful and it helps them learn Bayesian techniques just like the above resources helped me. I hope you find it useful and I'd welcome any corrections/comments/contributions from the community.
+
+### Note
+This tutorial is actively being worked on. I'm keen to get feedback and welcome ideas/contributions.
