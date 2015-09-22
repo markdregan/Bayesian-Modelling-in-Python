@@ -1,7 +1,39 @@
-# Hanging-Out-With-PYMC3
+# Hangout with PYMC3
 
-A tutorial on how to use PYMC3 with examples modeling my Google Hangout chat data.
+Welcome to "Hangout with PYMC3" - a tutorial for those interested in learning bayesian statistics in python. The tutorial sections and topics can be seen below.
 
-[View the iPython Notebook](http://nbviewer.ipython.org/github/markdregan/Hanging-Out-With-PYMC3/blob/master/pymc3_tutorial_hangouts.ipynb)
+### Contents
+- Section 0: Introduction
+    - Motivation for learning bayesian statistics
+    - Loading a parsing Hangout chat data
+    
+- Section 1: Estimating model parameters
+    - Frequentist technique for estimating parameters of a poisson model (Optimization routine)
+    - Bayesian technique for estimating parameters of a poisson model (MCMC)
 
-Note: this tutorial is incomplete and actively being worked on.
+- Section 2: Model checking
+    - Posterior predictive check
+    - Bayes factor
+    
+- Section 3: Hierarchal modelling
+    - Model pooling (separate models)
+    - Partial pooling (hierarchal models)
+    - Shrinkage effect of partial pooling
+    - Asking questions of the posterior predictive distribution
+    
+- Section 4: Bayesian regression
+    - Bayesian fixed effects model
+    - Bayesian mixed effects model
+
+### Motivation for learning bayesian statistics
+Statistics is a topic that never resonated with me throughout university. The frequentist techniques that we were taught (p-values etc) felt contrived and ultimately I turned my back on statistics as a topic that I wasn't interested in.
+
+That was until I stumbled upon Bayesian statistics - a branch to statistics quite different from the traditional frequentist statistics that most universities teach. I was inspired by a number of different publications, blogs & videos that I would highly recommend any newbies to bayesian stats to begin with. They include:
+- [Doing Bayesian Data Analysis](http://www.amazon.com/Doing-Bayesian-Analysis-Second-Edition/dp/0124058884/ref=dp_ob_title_bk) by John Kruschke
+- [Python port](https://github.com/aloctavodia/Doing_bayesian_data_analysis) of John Kruschke's examples by Osvaldo Martin
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) provided me with a great source of inspiration to learn bayesian stats. In recognition of this influence, I've adopted the same visual styles as BMH.
+- [While My MCMC Gently Samples](http://twiecki.github.io/) blog by Thomas Wiecki
+- [Healthy Algorithms](http://healthyalgorithms.com/tag/pymc/) blog by Abraham Flaxman
+- [Scipy Tutorial 2014](https://github.com/fonnesbeck/scipy2014_tutorial) by Chris Fonnesbeck
+
+I created this tutorial in the hope that others find it useful and it helps them learn Bayesian techniques just like the above resources helped me. I hope you find it useful and I'd welcome any corrections/comments/contributions from the community.
