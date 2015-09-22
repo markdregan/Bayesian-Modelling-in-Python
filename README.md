@@ -15,7 +15,7 @@ Welcome to "Hangout with PYMC3" - a tutorial for those interested in learning ba
     - Posterior predictive check
     - Bayes factor
     
-- [Section 3: Hierarchal modelling](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%203.%20Hierarrchal%20modelling.ipynb)
+- [Section 3: Hierarchal modeling](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%203.%20Hierarrchal%20modeling.ipynb)
     - Model pooling (separate models)
     - Partial pooling (hierarchal models)
     - Shrinkage effect of partial pooling
