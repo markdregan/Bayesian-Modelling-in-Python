@@ -23,7 +23,7 @@ Welcome to "Hangout with PYMC3" - a tutorial for those interested in learning ba
     - Shrinkage effect of partial pooling
     - Asking questions of the posterior predictive distribution
     
-- Section 4: [Bayesian regression](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%204.%20Bayesian%20regression.ipynb)
+- [**Section 4: Bayesian regression**](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%204.%20Bayesian%20regression.ipynb)
     - Bayesian fixed effects model
     - Bayesian mixed effects model
 
