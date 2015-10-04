@@ -1,6 +1,6 @@
 # [Hangout with PYMC3](https://github.com/markdregan/Hangout-with-PYMC3)
 
-![Hangout with PYMC3](/graphics/posterior-predictive-distribution.png)
+![Hangout with PYMC3](/graphics/cover.png)
 
 Welcome to "Hangout with PYMC3" - a tutorial for those interested in learning bayesian statistics in python ([PYMC3](https://github.com/pymc-devs/pymc3)). The tutorial sections and topics can be seen below.
 
