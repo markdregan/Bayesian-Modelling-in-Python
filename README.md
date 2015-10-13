@@ -1,29 +1,29 @@
-# [Hangout with PYMC3](https://github.com/markdregan/Hangout-with-PYMC3)
+# [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 
-![Hangout with PYMC3](/graphics/cover.png)
+![Bayesian Modelling in Python](/graphics/cover.png)
 
-Welcome to "Hangout with PYMC3" - a tutorial for those interested in learning bayesian statistics in python ([PYMC3](https://github.com/pymc-devs/pymc3)). The tutorial sections and topics can be seen below.
+Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in learning bayesian statistics in python ([PYMC3](https://github.com/pymc-devs/pymc3)). The tutorial sections and topics can be seen below.
 
 ### Contents
-- [**Section 0: Introduction**](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%200.%20Introduction.ipynb)
+- [**Section 0: Introduction**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%200.%20Introduction.ipynb)
     - Motivation for learning bayesian statistics
     - Loading and parsing Hangout chat data
     
-- [**Section 1: Estimating model parameters**](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%201.%20Estimating%20model%20parameters.ipynb)
+- [**Section 1: Estimating model parameters**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%201.%20Estimating%20model%20parameters.ipynb)
     - Frequentist technique for estimating parameters of a poisson model (Optimization routine)
     - Bayesian technique for estimating parameters of a poisson model (MCMC)
 
-- [**Section 2: Model checking**](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%202.%20Model%20checking.ipynb)
+- [**Section 2: Model checking**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%202.%20Model%20checking.ipynb)
     - Posterior predictive check
-    - Bayes factor
+    - Bayes factor via nested sampling
     
-- [**Section 3: Hierarchal modeling**](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%203.%20Hierarchical%20modelling.ipynb)
+- [**Section 3: Hierarchal modeling**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%203.%20Hierarchical%20modelling.ipynb)
     - Model pooling (separate models)
     - Partial pooling (hierarchal models)
     - Shrinkage effect of partial pooling
     - Asking questions of the posterior predictive distribution
     
-- [**Section 4: Bayesian regression**](http://nbviewer.ipython.org/github/markdregan/Hangout-with-PYMC3/blob/master/Section%204.%20Bayesian%20regression.ipynb)
+- [**Section 4: Bayesian regression**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%204.%20Bayesian%20regression.ipynb)
     - Bayesian fixed effects model
     - Bayesian mixed effects model
 
