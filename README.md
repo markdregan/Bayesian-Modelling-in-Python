@@ -23,9 +23,18 @@ Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in l
     - Shrinkage effect of partial pooling
     - Asking questions of the posterior predictive distribution
     
-- [**Section 4: Bayesian regression**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%204.%20Bayesian%20regression.ipynb)
-    - Bayesian fixed effects model
-    - Bayesian mixed effects model
+- **Section 4: Bayesian regression**
+    - Bayesian fixed effects poisson regression
+    - Bayesian mixed effects poisson regression
+    
+- **Section 5: Bayesian survival analysis**
+    - Cox proportional hazard model
+    - Aalen's additive hazard model
+    - Survival regression
+    
+- **Section 6: Bayesian A/B tests**
+    - Bayesian test of proportions
+    - Bayesian t-test (BEST)
 
 ### Motivation for learning bayesian statistics
 Statistics is a topic that never resonated with me throughout university. The frequentist techniques that we were taught (p-values etc) felt contrived and ultimately I turned my back on statistics as a topic that I wasn't interested in.
