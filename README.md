@@ -13,7 +13,7 @@ Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in l
     - Frequentist technique for estimating parameters of a poisson model (Optimization routine)
     - Bayesian technique for estimating parameters of a poisson model (MCMC)
 
-- [**Section 2: Model checking**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%202.%20Model%20checking.ipynb)
+- [**Section 2: Model checking & comparison**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%202.%20Model%20checking.ipynb)
     - Posterior predictive check
     - Bayes factor via nested sampling
     
@@ -21,16 +21,15 @@ Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in l
     - Model pooling (separate models)
     - Partial pooling (hierarchal models)
     - Shrinkage effect of partial pooling
-    - Asking questions of the posterior predictive distribution
     
 - **Section 4: Bayesian regression**
     - Bayesian fixed effects poisson regression
     - Bayesian mixed effects poisson regression
     
 - **Section 5: Bayesian survival analysis**
+    - Survival model theory
     - Cox proportional hazard model
     - Aalen's additive hazard model
-    - Survival regression
     
 - **Section 6: Bayesian A/B tests**
     - Bayesian test of proportions
