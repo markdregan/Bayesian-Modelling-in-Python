@@ -5,7 +5,7 @@
 Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in learning bayesian statistics in python ([PYMC3](https://github.com/pymc-devs/pymc3)). The tutorial sections and topics can be seen below.
 
 ### Contents
-- [**Section 0: Introduction**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%200.%20Introduction.ipynb)
+- [**Introduction**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%200.%20Introduction.ipynb)
     - Motivation for learning bayesian statistics
     - Loading and parsing Hangout chat data
     
@@ -15,7 +15,7 @@ Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in l
 
 - [**Section 2: Model checking & comparison**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%202.%20Model%20checking.ipynb)
     - Posterior predictive check
-    - Bayes factor via nested sampling
+    - Bayes factor
     
 - [**Section 3: Hierarchal modeling**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%203.%20Hierarchical%20modelling.ipynb)
     - Model pooling (separate models)
