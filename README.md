@@ -22,7 +22,7 @@ Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in l
     - Partial pooling (hierarchal models)
     - Shrinkage effect of partial pooling
     
-- **Section 4: Bayesian regression**
+- [**Section 4: Bayesian regression**](http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%204.%20Bayesian%20regression.ipynb)
     - Bayesian fixed effects poisson regression
     - Bayesian mixed effects poisson regression
     
