@@ -35,6 +35,12 @@ Welcome to "Bayesian Modelling in Python" - a tutorial for those interested in l
     - Bayesian test of proportions
     - Bayesian t-test (BEST)
 
+### Contributions
+- All contributions are more than welcome. They can be minor (spelling, better explanations, improved code/charts) or major (contribute a full section).
+- If you would like to contribute, please create a pull request in GitHub. Happy to discuss ideas before you begin working on the addition.
+- I would especially welcome any contributions that address: survival analysis, mixture models, time series models or A/B experiments.
+- If you're not familiar with GitHub - please email me at mark@thinkvein.com.
+
 ### Motivation for learning bayesian statistics
 Statistics is a topic that never resonated with me throughout university. The frequentist techniques that we were taught (p-values etc) felt contrived and ultimately I turned my back on statistics as a topic that I wasn't interested in.
 
