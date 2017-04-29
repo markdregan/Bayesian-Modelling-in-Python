@@ -1,1 +1,7 @@
 data/Hangouts.json
+Appendix 1. Anonymize participants.ipynb
+Mixture models.ipynb
+Section 5. Bayesian Classification.ipynb
+Timeseries modelling.ipynb
+.DS_Store
+.ipynb_checkpoints/
